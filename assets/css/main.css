@@ -1773,13 +1773,13 @@ input, select, textarea {
 	}
 
 	header h2 + p {
-		font-size: 1.25em;
+		font-size: 1.25em ;
 		margin-top: -1em;
 		line-height: 1.5em;
 	}
 
 	header h3 + p {
-		font-size: 1.1em;
+		font-size: 1.1em ;
 		margin-top: -0.8em;
 		line-height: 1.5em;
 	}
@@ -2564,12 +2564,12 @@ input, select, textarea {
 		}
 
 		.work-item h3 {
-			font-size: 1em;
+			font-size: 1.25em;
 			margin: 0 0 0.5em 0;
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			font-size: 1em;
 			line-height: 1.5em;
 			margin: 0;
 		}
@@ -3129,11 +3129,11 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.35em;
 			}
 
 			h3 {
-				font-size: 1em;
+				font-size: 1.2em;
 			}
 
 		/* Section/Article */

@@ -357,11 +357,16 @@ $size-header-pad: 4em;
 			line-height: 1.5em;
 		}
 
-		h3 + p {
-			font-size: 1.1em;
+		h3 + p{
+			font-size: 1.1em ;
 			margin-top: (_size(element-margin) * -0.4);
 			line-height: 1.5em;
+
 		}
+
+		
+
+		
 
 		h4 + p,
 		h5 + p,
